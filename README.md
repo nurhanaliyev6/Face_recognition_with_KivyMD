@@ -3,12 +3,12 @@
 This Python application utilizes Kivy and OpenCV to implement a simple real-time face recognition system. The app captures frames from the webcam, saves one of the frames when the "Click here" button is pressed, and then attempts to recognize the face in the saved frame using face_recognition library. It compares the captured face with a set of known faces and identifies the person if recognized.
 
 ## Requirements
-Python 3.x
-Kivy (1.9.0 or later)
-KivyMD
-OpenCV (cv2)
-NumPy
-face_recognition
+Python 3.x\n
+Kivy (1.9.0 or later)\n
+KivyMD\n
+OpenCV (cv2)\n
+NumPy\n
+face_recognition\n
 pyttsx3
 
 
